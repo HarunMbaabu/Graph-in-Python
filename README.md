@@ -16,4 +16,4 @@ The row and column indices represent the vertices: matrix[i][j] = 1matrix[i][j]=
 For a weighted graph,the edge weight is usually written in place of 11. 
 
 
-![Visual Representation of a graph](relative/path/to/img.jpg?raw=true "Title")
+![Visual Representation of a graph](https://github.com/LuxTechAcademy/Graph-in-Python/blob/main/download.png "Title")
